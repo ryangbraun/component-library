@@ -30,7 +30,7 @@ export default [
         external: ["react", "react-dom"],
     },
     {
-        input: "component-library-ryangilbertbraun.d.ts",
+        input: "component-library.d.ts",
         output: [{ file: "dist/index.d.ts", format: "es" }],
         plugins: [dts()],
     }

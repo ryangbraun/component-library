@@ -1,6 +1,6 @@
 {
-  "name": "component-library-ryangilbertbraun",
-  "version": "0.1.13",
+  "name": "component-library-example-ahead",
+  "version": "0.1.0",
   "description": "A reusable component library for React",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
