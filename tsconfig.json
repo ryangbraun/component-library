@@ -1,5 +1,14 @@
 {
   "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "component-library": [
+        "./component-library.d.ts"
+      ],
+      "components/*": [
+        "./components/*"
+      ]
+    },
     "target": "es6",
     "lib": [
       "dom",
